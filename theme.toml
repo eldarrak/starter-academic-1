@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-academic/blob/master/LICENSE.md"
 description = ""
 homepage = "https://wowchemy.com/templates/"
-min_version = "0.78"
+min_version = "0.81"
 tags = ["widgets",
         "resume",
         "portfolio",
