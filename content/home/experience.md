@@ -22,13 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: assistant professor in Animal-Environment Interactions
+    company: Department of Theoretical and Computational Ecology, Institute for Biodiversity and Ecosystems Dynamics, University of Amsterdam
+    company_url: https://ibed.uva.nl/content/research-departments/theoretical-and-computational-ecology/theoretical-and-computational-ecology.html
+    company_logo: uvalogo_tag_p1
+    location: Amsterdam, The Netherlands
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+              
+        * Development of animal sensing approach
+        * Conservation ecology of black-tailed godwit
+        * Teaching Simulation and Modelling and Analysis and Modelling Lab
+
+
   - title: postdoctoral researher
     company: Conservation Ecology Group, University of Groningen
     company_url: https://www.rug.nl
     company_logo: RuG-logo
     location: Groningen, The Netherlands
     date_start: '2018-09-01'
-    date_end: ''
+    date_end: '2021-08-31'
     description: |2-
               
         * Conservation ecology of black-tailed godwit

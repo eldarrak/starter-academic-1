@@ -6,12 +6,12 @@ title: Eldar Rakhimberdiev
 superuser: true
 
 # Role/position/tagline
-role: postdoctoral researcher
+role: assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Conservation Ecology Group, Groningen Institute for Evolutionary Life Sciences, University of Groningen (NL)
-  url: http://www.rug.nl
+- name: Department of Theoretical and Computational Ecology, Institute for Biodiversity and Ecosystems Dynamics, University of Amsterdam
+  url: https://ibed.uva.nl/content/research-departments/theoretical-and-computational-ecology/theoretical-and-computational-ecology.html
 
 - name: Department of Vertebrate Zoology, Lomonosov Moscow State University (Russia)
   url: http://www.msu.ru

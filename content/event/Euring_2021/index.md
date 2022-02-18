@@ -1,5 +1,5 @@
 ---
-title: Misidentification errors in reencounters result in biased estimates of survival from CJS models - evidence and a possible solution using the robust design
+title: Misidentification errors in reencounters result in biased estimates of survival from CJS models
 
 event: EURING analytical meeting
 event_url: http://www.phidot.org/euring/index.html
